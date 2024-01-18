@@ -975,6 +975,9 @@ input[type="date" i] {
 .btn3 {
   background: #111111;
   border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
 }
 
 .btn3:hover {
@@ -1591,4 +1594,13 @@ body {
   background-color: #ec1d25;
 }
 
+.chappathi{
+  width: 40vw;
+}
 
+.coffee{
+  height: 60vh;
+}
+.samoosa{
+  height: 70.5vh;
+}

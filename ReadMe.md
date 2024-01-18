@@ -1,24 +1,58 @@
-Thanks for downloading this theme!
 
-## Useful Links
+Indian Spice Hut Website
+Welcome to the GitHub repository for the Indian Spice Hut website. This repository contains the source code and related files for the Indian Spice Hut website.
 
-**ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
+Table of Contents
+Introduction
+Features
+Getting Started
+Folder Structure
+Dependencies
+Contributing
+License
+Contact
+Introduction
+Indian Spice Hut is a restaurant website designed to showcase our menu, gallery, and provide information about our location and contact details. The website is built using HTML, CSS, JavaScript, and various libraries for enhanced functionality.
 
-To download free templates, follow this link: https://themewagon.com/theme_tag/free/
+Features
+Responsive Design: The website is designed to work seamlessly on various devices, including desktops, tablets, and smartphones.
+Menu Display: Explore our diverse menu items with detailed descriptions.
+Gallery: View enticing images of our restaurant and dishes in the gallery section.
+Contact Form: Reach out to us using the contact form to inquire or leave feedback.
+Social Media Integration: Connect with us on social media platforms such as Instagram, Facebook, and Twitter.
+Getting Started
+To get a local copy of the project up and running, follow these steps:
+1.Clone the repository:
+2.Copy code:
+git clone https://github.com/your-username/indian-spice-hut.git
+3.Open the index.html file in your web browser.
 
-Besides that, you can buy our premium templates for making your web development experience unforgettable.
+Explore the website and enjoy the content!
 
-Visit the store from here: https://themewagon.com/theme-categories/premium-templates/
+Folder Structure
+The repository has the following structure:
 
-Alternatively, here's our top most trending and selling items:
+css/: Contains stylesheets.
+images/: Stores images used in the website.
+js/: Includes JavaScript files.
+vendor/: External libraries and frameworks.
+README.md: This documentation file.
+Dependencies
+The website utilizes the following libraries:
 
-* [**Posh**](https://themewagon.com/themes/posh-html5-bootstrap-4-template/) - Bootstrap 4 template with a myriad number of ready-to-deploy sections. 
-* [**Elixir**](https://themewagon.com/themes/elixir-elegant-html5-bootstrap-template-consultancy-agency-website/) - Bootstrap 4 agency template. Best for smooth animated scrolling. 
-* [**Freya**](https://themewagon.com/themes/bootstrap-4-premium-interior-design-template-freya/) - Interior design template made with Bootstrap 4. 
-* [**Reign Pro**](https://themewagon.com/themes/reign-pro-premium-corporate-agency-html5-template/) - A corporate template with a visually unique design scheme. 
-* [**Boots4**](https://themewagon.com/themes/first-ever-bootstrap-4-template/) - One of the first Bootstrap 4 templates ever made on earth. 
-* [**Hideaway**](https://themewagon.com/themes/hideaway/) - A template for resorts. Built with Bootstrap 4. 
-* [**Baikal**](https://themewagon.com/themes/bootstrap-4-startup-small-business-website-template/) - A smart Bootstrap template for start-up. 
-* [**Mega Discount**](https://themewagon.com/themes/mega-discount-bundle/) - A bundle of 26 HTML5 templates; best value for your money. 
+Bootstrap
+jQuery
+Animsition
+Slick Carousel
+Lightbox2
+Google Maps API
+Make sure to include these dependencies when running the website.
 
+Contributing
+If you'd like to contribute to the development of the Indian Spice Hut website, please follow our contribution guidelines.
 
+License
+This project is licensed under the MIT License.
+
+Contact
+For inquiries or support, feel free to contact us at info@indianspicehut.com or visit our website at www.indianspicehut.com. We appreciate your interest in Indian Spice Hut!

@@ -1604,3 +1604,21 @@ body {
 .samoosa{
   height: 70.5vh;
 }
+
+.galleryfood{
+  height: 65vh;
+  width: 20vw;
+  object-fit: cover;
+}
+.mangojuice{
+  position: absolute;
+  right: 1vw;
+  width: 40vw
+}
+
+.footerImages{
+  height: 15vh;
+  max-height: 100%;
+  width: 20vw;
+  object-fit: cover;
+}

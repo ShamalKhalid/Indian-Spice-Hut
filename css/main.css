@@ -1603,6 +1603,7 @@ body {
 }
 .samoosa{
   height: 70.5vh;
+  object-fit: cover;
 }
 
 .galleryfood{

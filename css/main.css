@@ -1623,3 +1623,9 @@ body {
   width: 20vw;
   object-fit: cover;
 }
+
+.about-img{
+  position: relative;
+  top: 30vh;
+  
+}

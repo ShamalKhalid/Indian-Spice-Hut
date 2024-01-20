@@ -512,7 +512,7 @@ input[type="date" i] {
   height: 100%;
   padding-top: 10px;
   object-fit: contain;
-  margin-top: 5px;;
+  margin-top: 5px;
 }
 
 .logo > a {
@@ -1594,38 +1594,49 @@ body {
   background-color: #ec1d25;
 }
 
-.chappathi{
+.chappathi {
   width: 40vw;
 }
 
-.coffee{
+.coffee {
   height: 60vh;
 }
-.samoosa{
+.samoosa {
   height: 70.5vh;
   object-fit: cover;
 }
 
-.galleryfood{
+.galleryfood {
   height: 65vh;
   width: 20vw;
   object-fit: cover;
 }
-.mangojuice{
+.mangojuice {
   position: absolute;
   right: 1vw;
-  width: 40vw
+  width: 40vw;
 }
 
-.footerImages{
+.footerImages {
   height: 15vh;
   max-height: 100%;
   width: 20vw;
   object-fit: cover;
 }
 
-.about-img{
-  position: relative;
-  top: 30vh;
-  
+@media (min-width: 992px) {
+  .about-img1 {
+    position: relative;
+    top: 18vh;
+    max-width: 550px;
+    max-height: 400px;
+  }
+}
+@media (min-width: 992px) {
+  .about-img2 {
+    position: relative;
+    top: 30vh;
+    max-width: 550px;
+    max-height: 600px;
+  }
 }

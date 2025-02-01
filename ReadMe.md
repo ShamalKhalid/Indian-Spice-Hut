@@ -20,13 +20,6 @@ Menu Display: Explore our diverse menu items with detailed descriptions.
 Gallery: View enticing images of our restaurant and dishes in the gallery section.
 Contact Form: Reach out to us using the contact form to inquire or leave feedback.
 Social Media Integration: Connect with us on social media platforms such as Instagram, Facebook, and Twitter.
-Getting Started
-To get a local copy of the project up and running, follow these steps:
-1.Clone the repository:
-2.Copy code:
-git clone https://github.com/your-username/indian-spice-hut.git
-3.Open the index.html file in your web browser.
-
 Explore the website and enjoy the content!
 
 Folder Structure
